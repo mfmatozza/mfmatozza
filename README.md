@@ -57,11 +57,7 @@
 
 ## ✍️ Blog & logs
 
-I write about building, hackathons, and what I learn shipping with AI → **[michelematozza.com/blog](https://michelematozza.com/blog)**
+I write down ideas, opinions, building, hackathons, and what I learn shipping with AI → **[blog.michelematozza.com](https://blog.michelematozza.com)**
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mfmatozza&show_icons=true&hide_border=true&theme=github_dark&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfmatozza&layout=compact&hide_border=true&theme=github_dark" height="165" />
-</p>
