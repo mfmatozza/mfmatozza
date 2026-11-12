@@ -36,8 +36,8 @@
 | **[Lanes](https://trylanes.app)** | Coordination layer for coding agents — see what every teammate's agent is doing, queue edits to the same file | VC interest |
 | **[WhatsWrapped](https://whatswrapped.io)** | Turns an exported WhatsApp chat into a shareable recap of how you actually talk — 100% in-browser | 200+ users in 3 days |
 | **[ClauseOps](https://clauseops.com)** | AI extracts technical obligations from contracts and checks them against live infra (AWS, GitHub, Vercel…) | Top 0.1% @ Prompt a Startup |
-| **[Pixel Siege](https://pixel-siege.vercel.app)** | Live pay-to-claim pixel territory game: 100,000 blocks, real-time claims | — |
-| **[LinkeClean](https://github.com/mfmatozza/LinkeClean)** | Your LinkedIn feed, minus the noise | — |
+| **[WhatsWrapped](https://whatswrapped.io)** | Whatsapp version of Spotify Wrapped | — |
+| **[LinkeClean](https://github.com/mfmatozza/LinkeClean)** | Your LinkedIn feed, minus the noise, all in a Chrome extension | — |
 
 👉 More on [michelematozza.com/projects](https://michelematozza.com/projects)
 
