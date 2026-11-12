@@ -14,7 +14,7 @@
 
 ---
 
-## 🛣️ Now building: [Lanes](https://trylanes.app)
+## Now building: [Lanes](https://trylanes.app)
 
 > **Shared context for your team's coding agents.** A heads-up before a stale edit, a queue per file, agent-to-agent requests with a human approving.
 > Works with Claude Code, Codex, Cursor, Gemini CLI + 15 more via MCP.
